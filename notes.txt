@@ -1,0 +1,3 @@
+framerate is 60 (but actually 59?) fps. let's go with 60
+
+data.X.replays.Y... - X is round index, Y is player index
